@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 *.pyc
 microblog/settings/local.py
+=======
+*.log
+*.pot
+*.pyc
+local_settings.py
+>>>>>>> 045ece3123ea225ed9b1ba8ddd972b60bf4f51d8
